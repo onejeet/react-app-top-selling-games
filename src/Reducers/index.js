@@ -9,7 +9,6 @@ const queryReducer = (query='', action) => {
 
 const sortingReducer = (sorting={value: '', sort:''}, action) => {
     if(action.type === 'UPDATE_SORTING'){
-        console.log(action.payload.sort);
         if(action.payload.sort === 'dsc'){
             sorting = {
                 value: action.payload.value,
@@ -28,7 +27,6 @@ const sortingReducer = (sorting={value: '', sort:''}, action) => {
 }
 
 const themeReducer = (theme='light-theme', action) => {
-    console.log(action.payload);
     if(action.type === 'UPDATE_THEME'){
         return action.payload;
     }
@@ -37,7 +35,6 @@ const themeReducer = (theme='light-theme', action) => {
 
 const currentGameReducer = (game={}, action) => {
     if(action.type === 'UPDATE_CURRENT_GAME'){
-        console.log(action.payload);
         return action.payload;
     }
     return game;
