@@ -9,19 +9,10 @@ const queryReducer = (query='', action) => {
 
 const sortingReducer = (sorting={value: '', sort:''}, action) => {
     if(action.type === 'UPDATE_SORTING'){
-        if(action.payload.sort === 'dsc'){
-            sorting = {
-                value: action.payload.value,
-                sort: action.payload.sort
-            };
-            return sorting;
-        }else{
-            sorting = {
-                value: action.payload.value,
-                sort: action.payload.sort
-            };
-            return sorting;
-        }
+        sorting = {
+            value: action.payload.value,
+            sort: action.payload.sort
+        };
     }
     return sorting;
 }
