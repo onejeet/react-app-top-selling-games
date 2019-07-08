@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e26aa26e575314b0aa87e0e9dd61558e",
+    "revision": "b573e7ca517d5006d462ddd8fddf0194",
     "url": "/top-selling-games-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/top-selling-games-react/static/css/2.3a7e60b4.chunk.css"
   },
   {
-    "revision": "c996f26fc39f592d37bb",
+    "revision": "12c1c185a3bc3aca1c5b",
     "url": "/top-selling-games-react/static/css/main.a22a6231.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/top-selling-games-react/static/js/2.963d95af.chunk.js"
   },
   {
-    "revision": "c996f26fc39f592d37bb",
-    "url": "/top-selling-games-react/static/js/main.04d3a6cd.chunk.js"
+    "revision": "12c1c185a3bc3aca1c5b",
+    "url": "/top-selling-games-react/static/js/main.bb0f1683.chunk.js"
   },
   {
     "revision": "fb2cc84ec7d1f6384f62",
