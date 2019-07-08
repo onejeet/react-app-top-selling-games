@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/top-selling-games-react/static/css/main.a22a6231.chunk.css",
-    "main.js": "/top-selling-games-react/static/js/main.bb0f1683.chunk.js",
-    "main.js.map": "/top-selling-games-react/static/js/main.bb0f1683.chunk.js.map",
-    "runtime~main.js": "/top-selling-games-react/static/js/runtime~main.cd34b68b.js",
-    "runtime~main.js.map": "/top-selling-games-react/static/js/runtime~main.cd34b68b.js.map",
-    "static/css/2.3a7e60b4.chunk.css": "/top-selling-games-react/static/css/2.3a7e60b4.chunk.css",
-    "static/js/2.963d95af.chunk.js": "/top-selling-games-react/static/js/2.963d95af.chunk.js",
-    "static/js/2.963d95af.chunk.js.map": "/top-selling-games-react/static/js/2.963d95af.chunk.js.map",
-    "index.html": "/top-selling-games-react/index.html",
-    "precache-manifest.30bdb1284e308c7c3574895d1f80c4f8.js": "/top-selling-games-react/precache-manifest.30bdb1284e308c7c3574895d1f80c4f8.js",
-    "service-worker.js": "/top-selling-games-react/service-worker.js",
-    "static/css/2.3a7e60b4.chunk.css.map": "/top-selling-games-react/static/css/2.3a7e60b4.chunk.css.map",
-    "static/css/main.a22a6231.chunk.css.map": "/top-selling-games-react/static/css/main.a22a6231.chunk.css.map",
-    "static/media/data.csv": "/top-selling-games-react/static/media/data.09f178b2.csv",
-    "static/media/font-awesome.min.css": "/top-selling-games-react/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/static/css/main.a22a6231.chunk.css",
+    "main.js": "/static/js/main.73995e62.chunk.js",
+    "main.js.map": "/static/js/main.73995e62.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.400f043a.chunk.css": "/static/css/2.400f043a.chunk.css",
+    "static/js/2.963d95af.chunk.js": "/static/js/2.963d95af.chunk.js",
+    "static/js/2.963d95af.chunk.js.map": "/static/js/2.963d95af.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c000c7d1a7b7f74e3d6a6244b3fa8c21.js": "/precache-manifest.c000c7d1a7b7f74e3d6a6244b3fa8c21.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.400f043a.chunk.css.map": "/static/css/2.400f043a.chunk.css.map",
+    "static/css/main.a22a6231.chunk.css.map": "/static/css/main.a22a6231.chunk.css.map",
+    "static/media/data.csv": "/static/media/data.6e728769.csv",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
