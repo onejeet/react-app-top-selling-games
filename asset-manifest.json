@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "top-selling-games-react/static/css/main.a22a6231.chunk.css",
-    "main.js": "top-selling-games-react/static/js/main.04d3a6cd.chunk.js",
-    "main.js.map": "top-selling-games-react/static/js/main.04d3a6cd.chunk.js.map",
-    "runtime~main.js": "top-selling-games-react/static/js/runtime~main.40b9419d.js",
-    "runtime~main.js.map": "top-selling-games-react/static/js/runtime~main.40b9419d.js.map",
-    "static/css/2.60583969.chunk.css": "top-selling-games-react/static/css/2.60583969.chunk.css",
-    "static/js/2.963d95af.chunk.js": "top-selling-games-react/static/js/2.963d95af.chunk.js",
-    "static/js/2.963d95af.chunk.js.map": "top-selling-games-react/static/js/2.963d95af.chunk.js.map",
-    "index.html": "top-selling-games-react/index.html",
-    "precache-manifest.7efb16c26c3bd05919a0107f6c248850.js": "top-selling-games-react/precache-manifest.7efb16c26c3bd05919a0107f6c248850.js",
-    "service-worker.js": "top-selling-games-react/service-worker.js",
-    "static/css/2.60583969.chunk.css.map": "top-selling-games-react/static/css/2.60583969.chunk.css.map",
-    "static/css/main.a22a6231.chunk.css.map": "top-selling-games-react/static/css/main.a22a6231.chunk.css.map",
-    "static/media/data.csv": "top-selling-games-react/static/media/data.09f178b2.csv",
-    "static/media/font-awesome.min.css": "top-selling-games-react/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/top-selling-games-react/static/css/main.a22a6231.chunk.css",
+    "main.js": "/top-selling-games-react/static/js/main.04d3a6cd.chunk.js",
+    "main.js.map": "/top-selling-games-react/static/js/main.04d3a6cd.chunk.js.map",
+    "runtime~main.js": "/top-selling-games-react/static/js/runtime~main.cd34b68b.js",
+    "runtime~main.js.map": "/top-selling-games-react/static/js/runtime~main.cd34b68b.js.map",
+    "static/css/2.3a7e60b4.chunk.css": "/top-selling-games-react/static/css/2.3a7e60b4.chunk.css",
+    "static/js/2.963d95af.chunk.js": "/top-selling-games-react/static/js/2.963d95af.chunk.js",
+    "static/js/2.963d95af.chunk.js.map": "/top-selling-games-react/static/js/2.963d95af.chunk.js.map",
+    "index.html": "/top-selling-games-react/index.html",
+    "precache-manifest.1bcace171f409ec7aa057963d42d14a8.js": "/top-selling-games-react/precache-manifest.1bcace171f409ec7aa057963d42d14a8.js",
+    "service-worker.js": "/top-selling-games-react/service-worker.js",
+    "static/css/2.3a7e60b4.chunk.css.map": "/top-selling-games-react/static/css/2.3a7e60b4.chunk.css.map",
+    "static/css/main.a22a6231.chunk.css.map": "/top-selling-games-react/static/css/main.a22a6231.chunk.css.map",
+    "static/media/data.csv": "/top-selling-games-react/static/media/data.09f178b2.csv",
+    "static/media/font-awesome.min.css": "/top-selling-games-react/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
