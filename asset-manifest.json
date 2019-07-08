@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a22a6231.chunk.css",
-    "main.js": "/static/js/main.73995e62.chunk.js",
-    "main.js.map": "/static/js/main.73995e62.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.400f043a.chunk.css": "/static/css/2.400f043a.chunk.css",
-    "static/js/2.963d95af.chunk.js": "/static/js/2.963d95af.chunk.js",
-    "static/js/2.963d95af.chunk.js.map": "/static/js/2.963d95af.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c000c7d1a7b7f74e3d6a6244b3fa8c21.js": "/precache-manifest.c000c7d1a7b7f74e3d6a6244b3fa8c21.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.400f043a.chunk.css.map": "/static/css/2.400f043a.chunk.css.map",
-    "static/css/main.a22a6231.chunk.css.map": "/static/css/main.a22a6231.chunk.css.map",
-    "static/media/data.csv": "/static/media/data.6e728769.csv",
-    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/react-app-top-selling-games/static/css/main.a22a6231.chunk.css",
+    "main.js": "/react-app-top-selling-games/static/js/main.4c30a208.chunk.js",
+    "main.js.map": "/react-app-top-selling-games/static/js/main.4c30a208.chunk.js.map",
+    "runtime~main.js": "/react-app-top-selling-games/static/js/runtime~main.1a2f851e.js",
+    "runtime~main.js.map": "/react-app-top-selling-games/static/js/runtime~main.1a2f851e.js.map",
+    "static/css/2.25ab13a1.chunk.css": "/react-app-top-selling-games/static/css/2.25ab13a1.chunk.css",
+    "static/js/2.963d95af.chunk.js": "/react-app-top-selling-games/static/js/2.963d95af.chunk.js",
+    "static/js/2.963d95af.chunk.js.map": "/react-app-top-selling-games/static/js/2.963d95af.chunk.js.map",
+    "index.html": "/react-app-top-selling-games/index.html",
+    "precache-manifest.887abbfffb007e8afa712ce333f5ef4f.js": "/react-app-top-selling-games/precache-manifest.887abbfffb007e8afa712ce333f5ef4f.js",
+    "service-worker.js": "/react-app-top-selling-games/service-worker.js",
+    "static/css/2.25ab13a1.chunk.css.map": "/react-app-top-selling-games/static/css/2.25ab13a1.chunk.css.map",
+    "static/css/main.a22a6231.chunk.css.map": "/react-app-top-selling-games/static/css/main.a22a6231.chunk.css.map",
+    "static/media/data.csv": "/react-app-top-selling-games/static/media/data.6e728769.csv",
+    "static/media/font-awesome.min.css": "/react-app-top-selling-games/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
